@@ -1,0 +1,3 @@
+/home/sergey/Рабочий стол/work/CMakeFiles/rebuild_cache.dir
+/home/sergey/Рабочий стол/work/CMakeFiles/lab1.dir
+/home/sergey/Рабочий стол/work/CMakeFiles/edit_cache.dir

@@ -1,0 +1,1 @@
+/usr/bin/c++   -Wall -Wextra   CMakeFiles/lab1.dir/lab1.cpp.o CMakeFiles/lab1.dir/Vector.cpp.o CMakeFiles/lab1.dir/KV.cpp.o  -o lab1 

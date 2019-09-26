@@ -1,0 +1,30 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/sergey/Рабочий стол/work/KV.cpp
+
+/home/sergey/Рабочий стол/work/Vector.cpp
+Vector.h
+/home/sergey/Рабочий стол/work/Vector.h
+
+/home/sergey/Рабочий стол/work/Vector.h
+KV.cpp
+/home/sergey/Рабочий стол/work/KV.cpp
+stddef.h
+-
+stdlib.h
+-
+
+/home/sergey/Рабочий стол/work/lab1.cpp
+iostream
+-
+vector
+-
+Vector.h
+/home/sergey/Рабочий стол/work/Vector.h
+
